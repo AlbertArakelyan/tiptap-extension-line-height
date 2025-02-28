@@ -20,9 +20,9 @@ $ npm install tiptap-extensions-line-height
 ## Usage
 
 ```tsx
+import { EditorContent, useEditor } from '@tiptap/react';
 import StarterKit from '@tiptap/starter-kit';
 import LineHeight from 'tiptap-extensions-resize-image';
-import { EditorContent, useEditor } from '@tiptap/react';
 
 export const Editor = () => {
   const editor = useEditor({
@@ -39,7 +39,7 @@ export const Editor = () => {
 
   const handleLineHeightChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     editor?.chain().focus().setLineHeight(e.target.value).run();
-  }
+  };
 
   return (
     <div>
