@@ -1,0 +1,20 @@
+{
+  "name": "tiptap-extension-line-height",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertArakelyan/tiptap-extension-line-height.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertArakelyan/tiptap-extension-line-height/issues"
+  },
+  "homepage": "https://github.com/AlbertArakelyan/tiptap-extension-line-height#readme"
+}
