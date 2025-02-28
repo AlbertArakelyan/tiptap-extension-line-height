@@ -1,1 +1,3 @@
-export * from './src/line-height';
+import LineHeightExtension from './src/line-height';
+
+export default LineHeightExtension;
