@@ -24,8 +24,8 @@
     "@tiptap/starter-kit": "^2.10.2"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Albert Arakelyan",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/AlbertArakelyan/tiptap-extension-line-height/issues"
   },
