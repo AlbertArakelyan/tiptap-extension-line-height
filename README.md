@@ -21,7 +21,7 @@ $ npm install tiptap-extensions-line-height
 
 ```tsx
 import StarterKit from '@tiptap/starter-kit';
-import LineHeight from 'tiptap-extension-resize-image';
+import LineHeight from 'tiptap-extensions-resize-image';
 import { EditorContent, useEditor } from '@tiptap/react';
 
 export const Editor = () => {
