@@ -21,5 +21,10 @@
   "devDependencies": {
     "tsup": "^8.4.0",
     "typescript": "^5.8.2"
+  },
+  "peerDependencies": {
+    "@tiptap/pm": "^2.10.2",
+    "@tiptap/react": "^2.10.2",
+    "@tiptap/starter-kit": "^2.10.2"
   }
 }
