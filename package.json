@@ -23,7 +23,15 @@
     "@tiptap/react": "^2.10.2",
     "@tiptap/starter-kit": "^2.10.2"
   },
-  "keywords": [],
+  "keywords": [
+    "tiptap",
+    "tiptap extension",
+    "tiptap line-height",
+    "text",
+    "paragraph",
+    "leading",
+    "line height"
+  ],
   "author": "Albert Arakelyan",
   "license": "MIT",
   "bugs": {
