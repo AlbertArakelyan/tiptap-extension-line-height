@@ -14,7 +14,7 @@ This package provides the ability to adjust the line height of the tip tab text 
 You can install it using npm:
 
 ```bash
-$ npm install tiptap-extension-line-height
+$ npm install tiptap-extensions-line-height
 ```
 
 ## Usage
