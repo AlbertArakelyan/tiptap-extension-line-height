@@ -1,5 +1,5 @@
 {
-  "name": "tiptap-extension-line-height",
+  "name": "tiptap-extensions-line-height",
   "version": "1.0.0",
   "description": "A Tiptap line-height extension for React, Next.",
   "private": false,
