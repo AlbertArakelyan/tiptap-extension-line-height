@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertArakelyan/tiptap-extension-line-height.git"
+    "url": "git+https://github.com/AlbertArakelyan/tiptap-extensions-line-height.git"
   },
   "devDependencies": {
     "tsup": "^8.4.0",
@@ -35,7 +35,7 @@
   "author": "Albert Arakelyan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlbertArakelyan/tiptap-extension-line-height/issues"
+    "url": "https://github.com/AlbertArakelyan/tiptap-extensions-line-height/issues"
   },
-  "homepage": "https://github.com/AlbertArakelyan/tiptap-extension-line-height#readme"
+  "homepage": "https://github.com/AlbertArakelyan/tiptap-extensions-line-height#readme"
 }

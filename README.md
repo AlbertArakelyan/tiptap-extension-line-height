@@ -1,4 +1,4 @@
-# tiptap-extension-line-height
+# tiptap-extensions-line-height
 
 ![tiptap-extension-line-height](https://github.com/AlbertArakelyan/tiptap-extension-line-height/blob/main/src/assets/screenshot.gif?raw=true)
 
