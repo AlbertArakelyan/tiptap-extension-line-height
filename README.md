@@ -1,6 +1,6 @@
 # tiptap-extensions-line-height
 
-![tiptap-extension-line-height](https://github.com/AlbertArakelyan/tiptap-extension-line-height/blob/main/src/assets/screenshot.gif?raw=true)
+![tiptap-extension-line-height](https://github.com/AlbertArakelyan/tiptap-extensions-line-height/blob/main/src/assets/screenshot.gif?raw=true)
 
 [Tiptap](https://tiptap.dev/) is a suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs.
 
