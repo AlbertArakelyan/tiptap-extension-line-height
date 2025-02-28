@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/AlbertArakelyan/tiptap-extension-line-height/issues"
   },
-  "homepage": "https://github.com/AlbertArakelyan/tiptap-extension-line-height#readme"
+  "homepage": "https://github.com/AlbertArakelyan/tiptap-extension-line-height#readme",
+  "devDependencies": {
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
 }
