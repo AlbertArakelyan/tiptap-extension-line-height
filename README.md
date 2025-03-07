@@ -6,6 +6,12 @@
 
 This package provides the ability to adjust the line height of the tip tap text or paragraph.
 
+Make sure you already have installed all Tiptap related packages in you project
+
+```bash
+$ npm install @tiptap/react @tiptap/pm @tiptap/starter-kit
+```
+
 <!-- It has been tested in 
 [React](https://codesandbox.io/p/some_sandbox_link), and [NextJS](https://codesandbox.io/p/some_sandbox_link) -->
 
